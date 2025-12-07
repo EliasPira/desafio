@@ -60,4 +60,31 @@ Com base nesse valor, o código utiliza a estrutura `switch(true)` para determin
 ## ✨ Autor
 Desenvolvido como parte do desafio da **Formação Lógica de Programação** da DIO.  
 Feito com dedicação para praticar lógica, versionamento com Git/GitHub e execução em Node.js.
-```
+
+---
+
+## 👨‍💻 Expert
+
+<p>
+    <img 
+      align=left 
+      margin=10 
+      width=80 
+      src="https://avatars.githubusercontent.com/u/189679772?s=400&u=4614f09cc0678d91234b5688ae3b7e90c38f6cf1&v=4"
+    />
+    <p>&nbsp&nbsp&nbspElias Acosta<br>
+    &nbsp&nbsp&nbsp
+    <a 
+        href="https://github.com/EliasPira">
+        GitHub 
+</a>
+    &nbsp;|&nbsp;
+    <a 
+        href="https://www.linkedin.com/in/elias-acosta-a0ba8619a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BP%2BycqAVSSiGzJEhl0tiq%2Bw%3D%3">
+        LinkedIn
+</p>
+<br/><br/>
+<p>
+--- 
+
+
