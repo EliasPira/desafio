@@ -8,11 +8,11 @@ nivelDoHeroi = "Ferro";
 break;
 
 case xpDoHeroi <= 2000:
-    nivelDoHeroi = "Bronze";
+nivelDoHeroi = "Bronze";
 break;
 
 case xpDoHeroi <= 5000:
-    nivelDoHeroi = "Prata";
+nivelDoHeroi = "Prata";
 break;
 
 case xpDoHeroi <= 7000:
