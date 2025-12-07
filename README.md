@@ -36,12 +36,12 @@ Com base nesse valor, o código utiliza a estrutura `switch(true)` para determin
 
 1. **Clone o repositório**
    ```bash
-   git clone https://github.com/seu-usuario/nivel-heroi.git
+   git clone https://github.com/EliasPira/desafio.git
    ```
 
 2. **Acesse a pasta do projeto**
    ```bash
-   cd nivel-heroi
+   cd desafio
    ```
 
 3. **Execute o código com Node.js**
